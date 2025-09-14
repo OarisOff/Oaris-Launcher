@@ -1,7 +1,7 @@
 {
     "name": "oaris-launcher",
     "preductname": "Oaris Launcher",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Launcher Mincraft pour le serveur d'Oaris",
     "main": "src/app.js",
     "author": {
@@ -9,7 +9,7 @@
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
-    "url": "82.24.195.20:30106",
+    "url": "http://82.24.195.20:30106",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
