@@ -1,7 +1,7 @@
 {
     "name": "oaris-launcher",
     "preductname": "Oaris Launcher",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "description": "Launcher Mincraft pour le serveur Selvania",
     "main": "src/app.js",
     "author": {
