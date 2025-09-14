@@ -1,20 +1,20 @@
 {
     "name": "oaris-launcher",
     "preductname": "Oaris Launcher",
-    "version": "1.0.1",
-    "description": "Launcher Mincraft pour le serveur Selvania",
+    "version": "1.0.0",
+    "description": "Launcher Mincraft pour le serveur d'Oaris",
     "main": "src/app.js",
     "author": {
         "name": "luuxis, OarisMC, Inc.",
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
-    "url": "https://proximitygamer.hstn.cloud",
+    "url": "http://launcher.luto-web.fr",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
         "build": "node build.js --obf=true --build=platform",
-        "icon": "node build.js --icon=https://cdn.discordapp.com/avatars/1202218977221156896/71d8c8ba8f80799f1b812f40547c394f.png?size=1024"
+        "icon": "node build.js --icon=https://pouch.jumpshare.com/preview/UQylqSQvaDjCBu3PDP7ZNYs8Eof8KZzkrr4l-YSWBYSOeVBA0ITQLEZ3Z8Qj9hPgegSC0931-GLXxqxWhY9eV0AxOgP3IOsr8uX59PHQack"
     },
     "license": "CCANC",
     "nodemonConfig": {
