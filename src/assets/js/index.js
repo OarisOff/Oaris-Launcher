@@ -30,9 +30,6 @@ class Splash {
 
     async startAnimation() {
         let splashes = [
-            { "message": "Je... vie...", "author": "Luuxis" },
-            { "message": "Salut je suis du code.", "author": "Luuxis" },
-            { "message": "Linux n'est pas un os, mais un kernel.", "author": "Luuxis" }
             { "message": "Le mot dinosaure signifie 'terrible lézard' en grec.", "author": "Oaris" },
             { "message": "Le plus grand dinosaure connu est l’Argentinosaurus.", "author": "Proximity" },
             { "message": "Le plus petit dinosaure mesurait à peine 50 cm.", "author": "Oaris" },
@@ -212,3 +209,4 @@ document.addEventListener("keydown", (e) => {
     }
 })
 new Splash();
+
