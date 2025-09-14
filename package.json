@@ -14,7 +14,7 @@
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
         "build": "node build.js --obf=true --build=platform",
-        "icon": "node build.js --icon=https://pouch.jumpshare.com/preview/UQylqSQvaDjCBu3PDP7ZNYs8Eof8KZzkrr4l-YSWBYSOeVBA0ITQLEZ3Z8Qj9hPgegSC0931-GLXxqxWhY9eV0AxOgP3IOsr8uX59PHQack"
+        "icon": "node build.js --icon=https://i.ibb.co/0VRR7hTm/Primal-Era.png"
     },
     "license": "CCANC",
     "nodemonConfig": {
