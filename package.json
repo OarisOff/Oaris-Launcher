@@ -1,8 +1,8 @@
 {
-    "name": "oaris-launcher",
-    "preductname": "Oaris Launcher",
+    "name": "primalera-launcher",
+    "preductname": "PrimalEra Launcher",
     "version": "1.0.1",
-    "description": "Launcher Mincraft pour le serveur Selvania",
+    "description": "Crée ton **Parc Préhistorique**, ramène les dinosaures à la vie, explore de nouveaux biomes et combats créatures mythologiques dans un monde rempli de fossiles et de surprises !",
     "main": "src/app.js",
     "author": {
         "name": "luuxis, OarisMC, Inc.",
